@@ -10,7 +10,7 @@ number3 = int(input("Enter 3rd no.: "))
 
 # calculating average
 average = (number1+number2+number3)/3
-print("Average =", average)
+print(f"Average = {average}")
 
 *******************************************************************************
 
